@@ -1,0 +1,21 @@
+@media (max-width: 1000px) {
+	.landing-right img {
+		height: 50%;
+		width: auto;
+		bottom: 0;
+		position: absolute;
+		margin-left: 10%;
+	}
+}
+
+@media (max-width: 670px) {
+	.user-action span {
+		display: none;
+	}
+	#home-logo {
+		width: 120px;
+	}
+	.img-fluid {
+		width: 100px;
+	}
+}
