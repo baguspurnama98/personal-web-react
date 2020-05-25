@@ -29,7 +29,7 @@ class Landing extends React.Component {
 							</button>
 							<img
 								className="animated fadeInUp delay-1s"
-								src={process.env.PUBLIC_URL + "/assets/Pic3.png"}
+								src="/assets/Pic3.png"
 								width="100"
 							/>
 						</div>

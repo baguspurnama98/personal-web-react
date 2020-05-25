@@ -109,6 +109,23 @@
 	font-size: 4rem;
 	font-family: Neuzeit-Black;
 }
+.picExperience {
+	height: 300px;
+}
+.mainExperience img {
+	width: auto;
+	height: 100%;
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.08) !important;
+}
+.lesson-card {
+	display: inline-block;
+	width: 47.5%;
+	margin-right: 24px;
+	text-align: center;
+	box-shadow: 0 0 6px #e8e8e8;
+	background-color: #fff;
+	cursor: pointer;
+}
 @font-face {
 	font-family: Neuzeit-Black;
 	src: url(/assets/NeuzeitBlack.otf);

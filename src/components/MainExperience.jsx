@@ -6,14 +6,12 @@ class MainExperience extends React.Component {
 		const expeList = [
 			{
 				name: "E-Bus",
-				image:
-					"https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/react/sass.svg",
+				image: "/assets/E-Bus1.jpg",
 				desc: "Ebus isadddddddddddddd fdsfsdf gfgds gfgegd sdafsdfa",
 			},
 			{
 				name: "Sass",
-				image:
-					"https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/react/sass.svg",
+				image: "/assets/Duitku.jpg",
 				desc: "Ebus isadddddddddddddd fdsfsdf gfgds gfgegd sdafsdfa",
 			},
 			{
