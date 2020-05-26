@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/personalWeb/static/css/main.afe69a4b.chunk.css",
-    "main.js": "/personalWeb/static/js/main.9a0040ba.chunk.js",
-    "main.js.map": "/personalWeb/static/js/main.9a0040ba.chunk.js.map",
+    "main.css": "/personalWeb/static/css/main.f63bdd97.chunk.css",
+    "main.js": "/personalWeb/static/js/main.c19ac692.chunk.js",
+    "main.js.map": "/personalWeb/static/js/main.c19ac692.chunk.js.map",
     "runtime-main.js": "/personalWeb/static/js/runtime-main.bfb01543.js",
     "runtime-main.js.map": "/personalWeb/static/js/runtime-main.bfb01543.js.map",
-    "static/js/2.a7705b85.chunk.js": "/personalWeb/static/js/2.a7705b85.chunk.js",
-    "static/js/2.a7705b85.chunk.js.map": "/personalWeb/static/js/2.a7705b85.chunk.js.map",
+    "static/js/2.cf0dd044.chunk.js": "/personalWeb/static/js/2.cf0dd044.chunk.js",
+    "static/js/2.cf0dd044.chunk.js.map": "/personalWeb/static/js/2.cf0dd044.chunk.js.map",
     "index.html": "/personalWeb/index.html",
-    "precache-manifest.2c8062cc62f9e0b8262058b4ed7cfe34.js": "/personalWeb/precache-manifest.2c8062cc62f9e0b8262058b4ed7cfe34.js",
+    "precache-manifest.31fc029db0af3df1974abab68209bb7a.js": "/personalWeb/precache-manifest.31fc029db0af3df1974abab68209bb7a.js",
     "service-worker.js": "/personalWeb/service-worker.js",
-    "static/css/main.afe69a4b.chunk.css.map": "/personalWeb/static/css/main.afe69a4b.chunk.css.map",
-    "static/js/2.a7705b85.chunk.js.LICENSE.txt": "/personalWeb/static/js/2.a7705b85.chunk.js.LICENSE.txt",
+    "static/css/main.f63bdd97.chunk.css.map": "/personalWeb/static/css/main.f63bdd97.chunk.css.map",
+    "static/js/2.cf0dd044.chunk.js.LICENSE.txt": "/personalWeb/static/js/2.cf0dd044.chunk.js.LICENSE.txt",
+    "static/media/AI.svg": "/personalWeb/static/media/AI.904910be.svg",
+    "static/media/Engineering.svg": "/personalWeb/static/media/Engineering.7c01d815.svg",
+    "static/media/HobbyBlog.svg": "/personalWeb/static/media/HobbyBlog.f83e31b9.svg",
+    "static/media/HobbyCreator.svg": "/personalWeb/static/media/HobbyCreator.348ed199.svg",
+    "static/media/HobbyFootball.svg": "/personalWeb/static/media/HobbyFootball.f8f5b7d1.svg",
+    "static/media/HobbyGames.svg": "/personalWeb/static/media/HobbyGames.80be7900.svg",
+    "static/media/HobbyPhoto.svg": "/personalWeb/static/media/HobbyPhoto.130ba858.svg",
     "static/media/style.css": "/personalWeb/static/media/NeuzeitRegular.7ea3e1ca.otf",
-    "static/media/Pic3.png": "/personalWeb/static/media/Pic3.6a1e840d.png"
+    "static/media/Pic3.png": "/personalWeb/static/media/Pic3.6a1e840d.png",
+    "static/media/UX.svg": "/personalWeb/static/media/UX.c8f80c5a.svg",
+    "static/media/hybridApp.svg": "/personalWeb/static/media/hybridApp.93fcf2c2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfb01543.js",
-    "static/js/2.a7705b85.chunk.js",
-    "static/css/main.afe69a4b.chunk.css",
-    "static/js/main.9a0040ba.chunk.js"
+    "static/js/2.cf0dd044.chunk.js",
+    "static/css/main.f63bdd97.chunk.css",
+    "static/js/main.c19ac692.chunk.js"
   ]
 }
