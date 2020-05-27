@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/personalWeb/static/css/main.bdde58d3.chunk.css",
-    "main.js": "/personalWeb/static/js/main.539e4058.chunk.js",
-    "main.js.map": "/personalWeb/static/js/main.539e4058.chunk.js.map",
+    "main.css": "/personalWeb/static/css/main.b27d7073.chunk.css",
+    "main.js": "/personalWeb/static/js/main.d36b47ae.chunk.js",
+    "main.js.map": "/personalWeb/static/js/main.d36b47ae.chunk.js.map",
     "runtime-main.js": "/personalWeb/static/js/runtime-main.bfb01543.js",
     "runtime-main.js.map": "/personalWeb/static/js/runtime-main.bfb01543.js.map",
-    "static/js/2.08d203eb.chunk.js": "/personalWeb/static/js/2.08d203eb.chunk.js",
-    "static/js/2.08d203eb.chunk.js.map": "/personalWeb/static/js/2.08d203eb.chunk.js.map",
+    "static/js/2.6c64e7ef.chunk.js": "/personalWeb/static/js/2.6c64e7ef.chunk.js",
+    "static/js/2.6c64e7ef.chunk.js.map": "/personalWeb/static/js/2.6c64e7ef.chunk.js.map",
     "index.html": "/personalWeb/index.html",
-    "precache-manifest.1aae5b8416a5ef5ffe41881044d7fce7.js": "/personalWeb/precache-manifest.1aae5b8416a5ef5ffe41881044d7fce7.js",
+    "precache-manifest.31da103a45e5ac7290849a72631aec3e.js": "/personalWeb/precache-manifest.31da103a45e5ac7290849a72631aec3e.js",
     "service-worker.js": "/personalWeb/service-worker.js",
-    "static/css/main.bdde58d3.chunk.css.map": "/personalWeb/static/css/main.bdde58d3.chunk.css.map",
-    "static/js/2.08d203eb.chunk.js.LICENSE.txt": "/personalWeb/static/js/2.08d203eb.chunk.js.LICENSE.txt",
-    "static/media/AI.svg": "/personalWeb/static/media/AI.904910be.svg",
-    "static/media/Engineering.svg": "/personalWeb/static/media/Engineering.7c01d815.svg",
-    "static/media/HobbyBlog.svg": "/personalWeb/static/media/HobbyBlog.f83e31b9.svg",
-    "static/media/HobbyCreator.svg": "/personalWeb/static/media/HobbyCreator.348ed199.svg",
-    "static/media/HobbyFootball.svg": "/personalWeb/static/media/HobbyFootball.f8f5b7d1.svg",
-    "static/media/HobbyGames.svg": "/personalWeb/static/media/HobbyGames.80be7900.svg",
-    "static/media/HobbyPhoto.svg": "/personalWeb/static/media/HobbyPhoto.130ba858.svg",
+    "static/css/main.b27d7073.chunk.css.map": "/personalWeb/static/css/main.b27d7073.chunk.css.map",
+    "static/js/2.6c64e7ef.chunk.js.LICENSE.txt": "/personalWeb/static/js/2.6c64e7ef.chunk.js.LICENSE.txt",
     "static/media/style.css": "/personalWeb/static/media/NeuzeitRegular.7ea3e1ca.otf",
     "static/media/Pic3.png": "/personalWeb/static/media/Pic3.6a1e840d.png",
-    "static/media/UX.svg": "/personalWeb/static/media/UX.c8f80c5a.svg",
-    "static/media/hybridApp.svg": "/personalWeb/static/media/hybridApp.93fcf2c2.svg"
+    "static/media/vector1.svg": "/personalWeb/static/media/vector1.9505605c.svg",
+    "static/media/vector2.svg": "/personalWeb/static/media/vector2.de476205.svg",
+    "static/media/vector3.svg": "/personalWeb/static/media/vector3.e10341c5.svg",
+    "static/media/vector4.svg": "/personalWeb/static/media/vector4.28e9a747.svg",
+    "static/media/vector5.svg": "/personalWeb/static/media/vector5.348ed199.svg",
+    "static/media/vector6.svg": "/personalWeb/static/media/vector6.9c89e3b9.svg",
+    "static/media/vector7.svg": "/personalWeb/static/media/vector7.2fd52719.svg",
+    "static/media/vector8.svg": "/personalWeb/static/media/vector8.130ba858.svg",
+    "static/media/vector9.svg": "/personalWeb/static/media/vector9.6dd0ef2b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfb01543.js",
-    "static/js/2.08d203eb.chunk.js",
-    "static/css/main.bdde58d3.chunk.css",
-    "static/js/main.539e4058.chunk.js"
+    "static/js/2.6c64e7ef.chunk.js",
+    "static/css/main.b27d7073.chunk.css",
+    "static/js/main.d36b47ae.chunk.js"
   ]
 }
