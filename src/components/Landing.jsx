@@ -1,8 +1,17 @@
 import React from "react";
-import PointDown from "./PointDownLottie";
-
+import Lottie from "react-lottie";
+import animationData from "../lotties/point-down.json";
+import picMe from "../assets/Pic3.png";
 class Landing extends React.Component {
 	render() {
+		const defaultOptions = {
+			loop: true,
+			autoplay: true,
+			animationData: animationData,
+			rendererSettings: {
+				preserveAspectRatio: "xMidYMid slice",
+			},
+		};
 		return (
 			<div className="landing  ">
 				<div className="backgroundLanding animated fadeInLeft"></div>
@@ -20,7 +29,7 @@ class Landing extends React.Component {
 								id="pointDownLottie"
 								className="lotties  animated fadeIn delay-2s"
 							>
-								<PointDown />
+								<Lottie options={defaultOptions} height={100} width={100} />
 							</div>
 						</div>
 						<div className="col landing-right">
@@ -29,7 +38,7 @@ class Landing extends React.Component {
 							</button>
 							<img
 								className="animated fadeInUp delay-1s"
-								src="/assets/Pic3.png"
+								src={picMe}
 								width="100"
 							/>
 						</div>

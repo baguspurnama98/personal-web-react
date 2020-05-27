@@ -1,4 +1,5 @@
 import React from "react";
+import picMe from "../assets/Pic3.png";
 
 class AboutMe extends React.Component {
 	render() {
@@ -16,19 +17,13 @@ class AboutMe extends React.Component {
 								I understand programming languages like HTML, PHP, Javascript,
 								CSS, jQuery, ReactJS, and Python.
 							</p>
-							<button className="btn btn-primary">Hire Me</button>
-							<button className="btn btn-outline-info">See My CV</button>
+							<a className="btn btn-primary">Hire Me</a>
+							<a className="btn btn-outline-info">See My CV</a>
 						</div>
 						<div className="col">
 							<div className="picOverlay">
-								<img
-									src={process.env.PUBLIC_URL + "/assets/Pic3.png"}
-									id="overlayPicABoutMe"
-								/>
-								<img
-									src={process.env.PUBLIC_URL + "/assets/Pic3.png"}
-									id="picAboutMe"
-								/>
+								<img src={picMe} id="overlayPicABoutMe" />
+								<img src={picMe} id="picAboutMe" />
 							</div>
 						</div>
 					</div>
