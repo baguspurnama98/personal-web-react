@@ -35,7 +35,7 @@ class Power extends React.Component {
 		};
 		return (
 			<div className="Power">
-				<h1 className="text-center">My Life Motto</h1>
+				<h1 className="text-center">Why Me?</h1>
 				<div className="container">
 					<div className="row rowPower">
 						<div className="col">

@@ -1,4 +1,14 @@
+/*
+TO DO LIST:
+- Isi link my axperience
+- buat halaman software, dll
+- Animasi Hobby (Buat when scrolling)
+- buat halaman responsive
+
+*/
+
 import React from "react";
+// import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./style/style.css";
 import "./style/animate.min.css";
 import "./style/responsive.css";
@@ -12,14 +22,21 @@ import Contact from "./components/Contact.jsx";
 class App extends React.Component {
 	render() {
 		return (
-			<div>
+			<>
 				<Landing />
 				<AboutMe />
 				<Power />
 				<MainExperience />
 				<Hobby />
 				<Contact />
-			</div>
+
+				{/* <BrowserRouter>
+					<Switch>
+						<Route path="/" exact component={Landing} />
+						<Route path="/hobby" exact component={Hobby} />
+					</Switch>
+				</BrowserRouter> */}
+			</>
 		);
 	}
 }

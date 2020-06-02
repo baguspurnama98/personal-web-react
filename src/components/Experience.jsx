@@ -3,7 +3,7 @@ import React from "react";
 class Experience extends React.Component {
 	render() {
 		return (
-			<div className="col-6">
+			<div className="col-sm">
 				<a href="#">
 					<div className="itemExperience">
 						<div className="picExperience">

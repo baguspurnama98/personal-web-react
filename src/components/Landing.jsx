@@ -1,7 +1,9 @@
 import React from "react";
 import Lottie from "react-lottie";
 import animationData from "../lotties/point-down.json";
+// import { Link } from "react-router-dom";
 import picMe from "../assets/Pic3.png";
+import Power from "./Power";
 class Landing extends React.Component {
 	render() {
 		const defaultOptions = {
@@ -16,8 +18,8 @@ class Landing extends React.Component {
 			<div className="landing  ">
 				<div className="backgroundLanding animated fadeInLeft"></div>
 				<div className="container containerLanding">
-					<div className="row">
-						<div className="col landing-left ">
+					<div className="row flex-column-reverse flex-md-row">
+						<div className="col-md-6 landing-left ">
 							<h2 className="animated fadeInDown delay-1s">Hello,</h2>
 							<h4 className="animated fadeInDown delay-1s">
 								I'm Bagus Purnama
@@ -27,15 +29,20 @@ class Landing extends React.Component {
 							</button>
 							<div
 								id="pointDownLottie"
-								className="lotties  animated fadeIn delay-2s"
+								className="lotties animated fadeIn delay-2s"
 							>
 								<Lottie options={defaultOptions} height={100} width={100} />
 							</div>
 						</div>
-						<div className="col landing-right">
+						<div className="col-md-6 landing-right">
 							<button className="btn btn-outline-info animated headShake infinite ">
 								Hire Me!
 							</button>
+							{/* <Route
+								className="btn btn-outline-info animated headShake infinite "
+								path="/power"
+								component={Power}
+							/> */}
 							<img
 								className="animated fadeInUp delay-1s"
 								src={picMe}

@@ -7,7 +7,7 @@ class AboutMe extends React.Component {
 			<div className="aboutMe">
 				<div className="container">
 					<div className="row">
-						<div className="col">
+						<div className="col-md-6">
 							<h1>About Me</h1>
 							<p>
 								I'm a Front End Developer and Data Enthusiast from Surabaya
@@ -20,7 +20,7 @@ class AboutMe extends React.Component {
 							<a className="btn btn-primary">Hire Me</a>
 							<a className="btn btn-outline-info">See My CV</a>
 						</div>
-						<div className="col">
+						<div className="col-md-6 aboutMeImage">
 							<div className="picOverlay">
 								<img src={picMe} id="overlayPicABoutMe" />
 								<img src={picMe} id="picAboutMe" />

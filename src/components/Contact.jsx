@@ -12,7 +12,7 @@ class AboutMe extends React.Component {
 
 							<a className="btn btn-primary">Contact Me!</a>
 						</div>
-						<div className="col">
+						<div className="col contactImage">
 							<div className="picOverlay2">
 								<img src={picMe} id="overlayPicABoutMe2" />
 							</div>

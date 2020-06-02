@@ -11,10 +11,10 @@ class Experience extends React.Component {
 				<h1 className="title text-center">Things That Interest Me</h1>
 				<div className="container">
 					<div className="row">
-						<div class="col text-right">
+						<div class="col-sm text-right">
 							<img src={vec5} />
 						</div>
-						<div class="col textHobby">
+						<div class="col-sm textHobby">
 							<h4>Blogging</h4>
 							<p>
 								Lately I like to share experiences and knowledge on the{" "}
@@ -33,7 +33,7 @@ class Experience extends React.Component {
 							</p>
 						</div>
 						<div class="w-100"></div>
-						<div class="col text-right textHobby">
+						<div class="col-sm text-right textHobby">
 							<h4>Content Creator</h4>
 							<p>
 								I am also interested in sharing your knowledge through visual
@@ -49,11 +49,11 @@ class Experience extends React.Component {
 								make a new video during my vacation to fill my free time.
 							</p>
 						</div>
-						<div class="col">
+						<div class="col-sm">
 							<img src={vec1} />
 						</div>
 						<div class="w-100"></div>
-						<div class="col text-right">
+						<div class="col-sm text-right">
 							<img src={vec4} />
 						</div>
 						<div class="col textHobby">
@@ -85,7 +85,7 @@ class Experience extends React.Component {
 								simulation and action games.
 								<br />
 								<br />
-								The games that I often play lately are <b>PES 2020</b> and
+								The games that I often play lately are <b>PES 2018</b> and
 								<b> GTA V </b>
 								Online. Contact me if you want to play together
 							</p>

@@ -1,21 +1,89 @@
 @media (max-width: 1000px) {
-	.landing-right img {
-		height: 50%;
-		width: auto;
-		bottom: 0;
-		position: absolute;
-		margin-left: 10%;
-	}
 }
 
 @media (max-width: 670px) {
-	.user-action span {
+	.backgroundLanding {
+		background-color: white;
+	}
+	.containerLanding {
+		position: relative;
+	}
+	.landing-left {
+		background-color: #1f4386;
+		padding: 100px 50px 0px 50px;
+		height: 50vh;
+	}
+	.landing-left h2 {
+		font-size: 2.5rem;
+	}
+
+	.landing-left h4 {
+		font-size: 2rem;
+	}
+
+	#pointDownLottie {
+		margin-top: 10%;
+	}
+	.landing-right {
+		height: 50vh;
+	}
+
+	.landing-right img {
+		height: 100%;
+	}
+	/* --------------------------- */
+	.aboutMe {
+		width: 100%;
+		background-color: #0a1e3b;
+		color: white;
+		height: 400px;
+	}
+	.aboutMeImage {
 		display: none;
 	}
-	#home-logo {
-		width: 120px;
+	.aboutMe h1 {
+		font-size: 2.5rem;
+		margin-top: 50px;
+		margin-bottom: 25px;
 	}
-	.img-fluid {
-		width: 100px;
+	/* --------------------------- */
+	.Power {
+		background-color: #1f4386;
+		height: auto;
+		padding-top: 50px;
+		color: white;
+	}
+	.rowPower {
+		height: auto;
+	}
+	.Power h1 {
+		font-size: 2.5rem;
+	}
+
+	/* --------------------------- */
+
+	.mainExperience h1 {
+		font-size: 2.5rem;
+	}
+
+	/* --------------------------- */
+	.textHobby {
+		padding-top: 25px;
+	}
+	.Hobby img {
+		width: auto;
+		height: 300px;
+		margin-bottom: 25px;
+	}
+	.title {
+		font-size: 2rem;
+		margin-bottom: 50px;
+	}
+	/* --------------------------- */
+	.contactImage {
+		display: none;
+	}
+	.Contact {
+		padding-bottom: 25px;
 	}
 }
